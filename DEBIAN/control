@@ -1,10 +1,10 @@
 Package: redis-tcl
-Version: 1.0
+Version: 0.1-1
 Section: misc
 Priority: optional
 Architecture: all
 Essential: no
-Depends: redis-server, tcl8.6
+Depends: redis-server, tcl
 Installed-Size: 48
 Maintainer: Robert McLeod <robert@autogrow.com>
 Homepage: https://git.autogrow.com/multi/redis-tcl
