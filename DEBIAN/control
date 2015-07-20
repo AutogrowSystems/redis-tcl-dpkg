@@ -1,0 +1,12 @@
+Package: redis-tcl
+Version: 1.0
+Section: misc
+Priority: optional
+Architecture: all
+Essential: no
+Depends: redis-server, tcl8.6
+Installed-Size: 48
+Maintainer: Robert McLeod <robert@autogrow.com>
+Homepage: https://git.autogrow.com/multi/redis-tcl
+Description: TCL library for interfacing with Redis
+  TCL library for interfacing with Redis
